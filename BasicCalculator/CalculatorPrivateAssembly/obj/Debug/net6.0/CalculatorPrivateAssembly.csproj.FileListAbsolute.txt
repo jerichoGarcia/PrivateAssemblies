@@ -1,0 +1,12 @@
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.deps.json
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.dll
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.pdb
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.dll
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\refint\CalculatorPrivateAssembly.dll
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.pdb
+C:\Users\garcia.261126\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\ref\CalculatorPrivateAssembly.dll
